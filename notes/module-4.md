@@ -15,7 +15,7 @@ Regenerate keys regularly to protect against the risk of keys being accessed by 
 
 Protect keys with Azure Key Vault - an Azure service where you can securely store secrets. Access is granted to security principals (users authenticated using Azure AD). Controlling access to the secret minimizes risk of compromise by being hard-copied in an app or a config file. 
 
-![module4.png](module4.png)
+![module4.png](images\module-4.png)
 
 Token-Based authentication
 
