@@ -52,11 +52,11 @@ Define diagnostic settings, specifying:
 - categories of log event data you want to capture
 - details of the destinations in which you want to store the log data
 
-![Module-5.1](images/module-5.1.png)
+![Module-5.1](../images/module-5.1.png)
 
 It can take 1hr+ before diagnostic data starts flowing to the dest, but when it has been captured, you can view it in Azure log Analytics by running queries as shown below:
 
-![Module-5.2](images/module-5.2.png)
+![Module-5.2](../images/module-5.2.png)
 
 For more info: [https://learn.microsoft.com/en-us/azure/cognitive-services/diagnostic-logging](https://learn.microsoft.com/en-us/azure/cognitive-services/diagnostic-logging)
 
