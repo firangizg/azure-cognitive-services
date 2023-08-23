@@ -43,7 +43,7 @@ If operation was successful, **Reason** property enumerated value **RecognizedSp
 
 Similar to speech recognition:
 
-![Module-10.1 image](..\images\module-10.1.png)
+![Module-10.1 image](../images/module-10.1.png)
 
 ## Configure audio format and voices
 
